@@ -1,0 +1,7 @@
+blusa
+casaco
+luva
+saia
+vestido
+meia
+calca

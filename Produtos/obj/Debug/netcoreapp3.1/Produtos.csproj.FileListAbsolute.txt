@@ -1,0 +1,13 @@
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.exe
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.deps.json
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.json
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.dev.json
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.dll
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\bin\Debug\netcoreapp3.1\Produtos.pdb
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.csprojAssemblyReference.cache
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfoInputs.cache
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfo.cs
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.dll
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.pdb
+C:\Users\patya\OneDrive\Documentos\CSharp\Produtos\obj\Debug\netcoreapp3.1\Produtos.genruntimeconfig.cache
