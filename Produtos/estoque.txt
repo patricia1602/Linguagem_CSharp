@@ -1,7 +1,7 @@
-blusa
-casaco
-luva
-saia
-vestido
 meia
+saia
 calca
+blusa
+cueca
+camiseta
+casaco
